@@ -1,2 +1,2 @@
-# recruiting-
+# recruiting
 Guide for Recruiting 
